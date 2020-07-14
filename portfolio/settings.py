@@ -31,7 +31,7 @@ ALLOWED_HOSTS = ['ravirajweb.herokuapp.com','localhost']
 # Application definition
 
 INSTALLED_APPS = [
-    
+    'contents'
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
